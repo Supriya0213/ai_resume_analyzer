@@ -22,7 +22,6 @@ A multi-page Streamlit application that transforms resume PDFs into structured c
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [How It Works](#how-it-works)
 - [Technology Stack](#technology-stack)
 - [Project Structure](#project-structure)
