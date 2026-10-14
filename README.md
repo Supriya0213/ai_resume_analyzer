@@ -60,50 +60,7 @@ The application also includes ATS-oriented checks, resume-version score tracking
 | **API Resilience** | Includes retry behavior for transient Gemini API failures and fallback handling when a model is unavailable. |
 | **Defensive LLM Parsing** | Handles model output cautiously because generated responses may not always be clean JSON. |
 
-## Screenshots
 
-Screenshots make it easier for visitors and internship reviewers to understand the application quickly. Add **real screenshots from your running app** to the `screenshots/` folder, then uncomment or adapt the image links below.
-
-> Screenshots were not included with the uploaded README, so no mock screenshots are presented as if they were real application captures.
-
-### 1. Resume Analyzer
-
-Show the resume upload area, job-description input, and analysis results.
-
-```markdown
-![Resume Analyzer](screenshots/resume-analyzer.png)
-```
-
-### 2. Recruiter Mode
-
-Show the multi-resume ranking results using sample candidate files.
-
-```markdown
-![Recruiter Mode](screenshots/recruiter-mode.png)
-```
-
-### 3. Resume Version Tracker
-
-Show how different versions are tracked against the same job description.
-
-```markdown
-![Resume Version Tracker](screenshots/version-tracker.png)
-```
-
-### 4. Cover Letter Generator
-
-Show a generated cover letter using a fictional/demo resume.
-
-```markdown
-![Cover Letter Generator](screenshots/cover-letter.png)
-```
-
-**Screenshot checklist**
-- Use sample or consented resumes only.
-- Hide names, phone numbers, email addresses, addresses, and other personal information.
-- Do not show API keys, `.env` contents, or private database records.
-- Crop screenshots to the application window for a clean, consistent presentation.
-- Use descriptive filenames and keep images inside `screenshots/`.
 
 ## How It Works
 
